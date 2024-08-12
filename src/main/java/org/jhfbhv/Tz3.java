@@ -1,3 +1,5 @@
+package org.jhfbhv;
+
 import java.util.Scanner;
 
 public class Tz3 {
